@@ -1,5 +1,4 @@
 'use client'
-import React, {useEffect, useState} from "react"
 import Image from "next/image";
 import logo from "@/app/images/logo.png";
 import Link from "next/link";
